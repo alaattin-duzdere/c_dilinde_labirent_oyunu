@@ -5,7 +5,7 @@ sonra, kaç kişinin bulunduğu sorulacak ve bu kişilerin koordinatları kullan
 Sonrasında kendi konumunuz belirlenecek ve belli bir mesafe içinde olan kişileri Öklid veya
 Manhattan mesafesine göre tespit edeceksiniz.
 
-Programın akışı;
+Programın akışı;\n
 • Kullanıcıdan labirent boyutlarını (genişlik, yükseklik) al
 • Labirent içine kaç kişi yerleştirileceğini sor
 • Kişilerin koordinatlarını (x, y) al ve geçerli olup olmadığını kontrol et
