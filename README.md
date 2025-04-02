@@ -17,7 +17,3 @@ Manhattan mesafesine göre tespit edeceksiniz.
 - Öklid veya Manhattan mesafesi seçimi yaptır
 - Her kişinin mesafesini hesapla ve belirtilen mesafe içinde olanları ekrana yazdır
 - En yakın ve en uzak kişiyi belirle ve ekrana yazdır
-
-  ## Not
-
-Bu kodun ilk versiyonudur. Henüz bitmiş dosya değildir.
